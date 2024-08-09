@@ -38,7 +38,7 @@ Large Language Models are amazing tools that can be used for diverse purposes. L
 The performance of the system varies depending on the used model, its size and the dataset on whichit has been trained. The larger a language model's training set (the more examples), generally speaking - better results will follow when using such systems as opposed those with smaller ones. But there is still no garantee that the output generated from any given prompt would always be perfect and it may contain errors due various reasons. So please make sure you do not use it for serious matters like choosing medications or making financial decisions without consultating an expert first hand ! 
 
 # license
-This repository uses code under ApacheLicense Version 2.0 , see [license](https://github.com/ParisNeo/lollms-webui/blob/main/LICENSE) file for details about rights granted with respect to usage & distribution
+This repository uses code under ApacheLicense Version 2.0 , see [license](https://github.com/nauen/lollms-webui/blob/main/LICENSE) file for details about rights granted with respect to usage & distribution
 
 # Copyright:
 ParisNeo 2023

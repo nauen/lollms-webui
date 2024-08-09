@@ -17,4 +17,4 @@ if [ -z "$modelName" ]; then
 fi
 
 # Run the Python command with the chosen model name
-python3 -m petals.cli.run_server "$modelName" --public_name https://github.com/ParisNeo/lollms-webui
+python3 -m petals.cli.run_server "$modelName" --public_name https://github.com/nauen/lollms-webui

@@ -9,13 +9,13 @@
 ######
 
 __author__ = "parisneo"
-__github__ = "https://github.com/ParisNeo/lollms-webui"
+__github__ = "https://github.com/nauen/lollms-webui"
 __copyright__ = "Copyright 2023, "
 __license__ = "Apache 2.0"
 
 __version__ ="7.0 (Beta)"
 
-main_repo = "https://github.com/ParisNeo/lollms-webui.git"
+main_repo = "https://github.com/nauen/lollms-webui.git"
 import os
 import platform
 import sys

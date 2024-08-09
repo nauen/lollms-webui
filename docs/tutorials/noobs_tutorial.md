@@ -8,7 +8,7 @@ Welcome to the LOLLMS WebUI tutorial! In this tutorial, we will walk you through
 2. If you are using Conda, you can create a Conda virtual environment, install the dependencies mentioned in the `requirements.txt` file, and run the application using `python app.py`. For regular Python installations, follow the next steps.
 
 ## Download and Launch the Tool
-1. Visit the GitHub repository page at [github.com/ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui).
+1. Visit the GitHub repository page at [github.com/nauen/lollms-webui](https://github.com/nauen/lollms-webui).
 2. Click on the "Latest Release" button.
 3. Depending on your platform, download either `win_install.bat` for Windows or `linux_install.sh` for Linux or `macos_install.sh` for MacOS.
 4. Choose a folder on your system to install the application launcher. For example, you can create a folder named `lollms-webui` in your `ai` directory.

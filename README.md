@@ -17,8 +17,8 @@
 [![Downloads](https://static.pepy.tech/badge/lollms/week)](https://pepy.tech/project/lollms)
 
 ## LoLLMs webui download statistics
-[![Downloads](https://img.shields.io/github/downloads/ParisNeo/lollms-webui/total?style=flat-square)](https://github.com/ParisNeo/lollms-webui/releases)
-[![Downloads](https://img.shields.io/github/downloads/ParisNeo/lollms-webui/latest/total?style=flat-square)](https://github.com/ParisNeo/lollms-webui/releases)
+[![Downloads](https://img.shields.io/github/downloads/ParisNeo/lollms-webui/total?style=flat-square)](https://github.com/nauen/lollms-webui/releases)
+[![Downloads](https://img.shields.io/github/downloads/ParisNeo/lollms-webui/latest/total?style=flat-square)](https://github.com/nauen/lollms-webui/releases)
 
 
 Welcome to LoLLMS WebUI (Lord of Large Language Models: One tool to rule them all), the hub for LLM (Large Language Model) models. This project aims to provide a user-friendly interface to access and utilize various LLM models for a wide range of tasks. Whether you need help with writing, coding, organizing data, generating images, generating music or seeking answers to your questions, LoLLMS WebUI has got you covered.
@@ -86,7 +86,7 @@ conda install -c "nvidia/label/cuda-11.8.0" cuda-toolkit
 ```
 - Clone the project
 ```bash
-git clone https://github.com/ParisNeo/lollms-webui.git
+git clone https://github.com/nauen/lollms-webui.git
 ```
 - enter the lollms-webui folder
 ```bash
@@ -138,7 +138,7 @@ pip install venv
 ```
 - Clone the project
 ```bash
-git clone https://github.com/ParisNeo/lollms-webui.git
+git clone https://github.com/nauen/lollms-webui.git
 ```
 - enter the lollms-webui folder
 ```bash
@@ -198,7 +198,7 @@ Large Language Models are amazing tools that can be used for diverse purposes. L
 The performance of the system varies depending on the used model, its size and the dataset on whichit has been trained. The larger a language model's training set (the more examples), generally speaking - better results will follow when using such systems as opposed those with smaller ones. But there is still no garantee that the output generated from any given prompt would always be perfect and it may contain errors due various reasons. So please make sure you do not use it for serious matters like choosing medications or making financial decisions without consultating an expert first hand ! 
 
 # license
-This repository uses code under ApacheLicense Version 2.0 , see [license](https://github.com/ParisNeo/lollms-webui/blob/main/LICENSE) file for details about rights granted with respect to usage & distribution
+This repository uses code under ApacheLicense Version 2.0 , see [license](https://github.com/nauen/lollms-webui/blob/main/LICENSE) file for details about rights granted with respect to usage & distribution
 
 # Copyright:
 ParisNeo 2023

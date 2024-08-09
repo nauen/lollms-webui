@@ -34,7 +34,7 @@ source ~/miniconda/etc/profile.d/conda.sh
 echo 'source ~/miniconda/etc/profile.d/conda.sh' >> ~/.bashrc
 
 # Clone the git repository
-git clone https://github.com/ParisNeo/lollms-webui.git ~/lollms-webui
+git clone https://github.com/nauen/lollms-webui.git ~/lollms-webui
 cd ~/lollms-webui
 
 # Create and activate conda environment

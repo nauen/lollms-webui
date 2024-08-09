@@ -22,7 +22,7 @@
                 <div v-if="!isConnected" title="Connection status" class="text-red-500">
                     <i data-feather="zap-off"></i>
                 </div>
-                <a href="https://github.com/ParisNeo/lollms-webui" target="_blank">
+                <a href="https://github.com/nauen/lollms-webui" target="_blank">
 
                     <div class="text-2xl  hover:text-primary duration-150" title="Visit repository page">
                         <i data-feather="github"></i>

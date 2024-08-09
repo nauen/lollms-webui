@@ -33,7 +33,7 @@ After these two are installed make sure to reboot your system before continuing.
 2. Open Terminal/PowerShell and navigate to a folder you want to clone this repository.
 
 ```bash
-git clone https://github.com/ParisNeo/lollms-webui.git
+git clone https://github.com/nauen/lollms-webui.git
 ```
 
 4. Install/run application by double clicking on `webui.bat` file from Windows explorer as normal user and follow the on screen instructions.
@@ -123,7 +123,7 @@ sudo pacman -S curl git python3
 2. Clone repository:
 
 ```bash
-git clone https://github.com/ParisNeo/lollms-webui.git
+git clone https://github.com/nauen/lollms-webui.git
 ```
 ```bash
 cd lollms-webui
@@ -152,7 +152,7 @@ brew install git python3
 3. Clone repository:
 
 ```bash
-git clone https://github.com/ParisNeo/lollms-webui.git
+git clone https://github.com/nauen/lollms-webui.git
 ```
 ```bash
 cd lollms-webui

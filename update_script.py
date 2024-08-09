@@ -55,7 +55,7 @@ def install_requirements():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--repo", type=str, default="https://github.com/ParisNeo/lollms-webui.git", help="Path to the Git repository")
+    parser.add_argument("--repo", type=str, default="https://github.com/nauen/lollms-webui.git", help="Path to the Git repository")
     args = parser.parse_args()
 
     repo_path = args.repo

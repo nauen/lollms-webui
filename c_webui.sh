@@ -64,7 +64,7 @@ if ping -q -c 1 google.com >/dev/null 2>&1; then
         cd lollms-webui
       else
         echo "Cloning repository..."
-        git clone https://github.com/ParisNeo/lollms-webui.git ./lollms-webui
+        git clone https://github.com/nauen/lollms-webui.git ./lollms-webui
         cd lollms-webui
       fi
     fi

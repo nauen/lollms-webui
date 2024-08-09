@@ -59,7 +59,7 @@ OK, now I finished making the installer. I'll make a video on how to do the inst
 
 You can find all the scripts to build the installer in the lollms repository:
 
-[https://github.com/ParisNeo/lollms-webui/tree/main/scripts/wsl](https://github.com/ParisNeo/lollms-webui/tree/main/scripts/wsl)
+[https://github.com/nauen/lollms-webui/tree/main/scripts/wsl](https://github.com/nauen/lollms-webui/tree/main/scripts/wsl)
 
 The installer is built using innosetup tool (free to download from the internet):
 
@@ -99,14 +99,14 @@ And after all, in the discussion view it works like charm. We can see here that 
 
 Now this is all in my lollms hugging face repository.
 You can find the code for wsl install of everything in here:
-[https://github.com/ParisNeo/lollms-webui/tree/main/scripts/wsl](https://github.com/ParisNeo/lollms-webui/tree/main/scripts/wsl)
+[https://github.com/nauen/lollms-webui/tree/main/scripts/wsl](https://github.com/nauen/lollms-webui/tree/main/scripts/wsl)
 
 You can modify the code to adapt any aspect to your needs then use innosetup to generate an installer or even make an installer that is independant from lollms if you don't need it.
 
 I also provide an executable installer on my release page of lollms, just select the petals version:
-https://github.com/ParisNeo/lollms-webui/releases/tag/v6.5.0
+https://github.com/nauen/lollms-webui/releases/tag/v6.5.0
 
-The one with wsl and petals support is [lollms-with-petals.exe](https://github.com/ParisNeo/lollms-webui/releases/download/v6.5.0/lollms-with-petals.exe)
+The one with wsl and petals support is [lollms-with-petals.exe](https://github.com/nauen/lollms-webui/releases/download/v6.5.0/lollms-with-petals.exe)
 
 I will probably make a video explaining exactly how to install and use this tool.
 
@@ -118,7 +118,7 @@ Here is my free discord channel: https://discord.gg/vHRwSxb5
 - My github: https://github.com/ParisNeo
 - My youtube channel: https://www.youtube.com/@Parisneo
 - Lollms community on twitter: https://twitter.com/i/communities/1695793673017966985
-- lollms-webui github: https://github.com/ParisNeo/lollms-webui
+- lollms-webui github: https://github.com/nauen/lollms-webui
 
 
 Best regards 
